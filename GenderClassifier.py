@@ -5,9 +5,7 @@
 # Features are the digits that correspond with the letters in the name
 # Labels are the gender
 import csv
-import random
 from sklearn import tree
-import numpy as np
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score
 from sklearn import model_selection
