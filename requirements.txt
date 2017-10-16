@@ -3,4 +3,3 @@ Flask
 wtforms
 scikit-learn
 scipy
-numpy
